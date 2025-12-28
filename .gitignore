@@ -1,0 +1,20 @@
+# Ignore Eclipse metadata
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+
+# Ignore compiled output
+bin/
+target/
+*.class
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# OS specific files
+Thumbs.db
+.DS_Store
